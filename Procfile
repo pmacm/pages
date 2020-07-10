@@ -1,0 +1,1 @@
+web: gunicorn pages_projects.wsgi --lof-file -
